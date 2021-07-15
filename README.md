@@ -24,6 +24,8 @@ For News & Updates search for @RoseStaking on Twitter
 - 2 active relays + 1 bootable backup relay for server maintenance + 1 raspberry pi relay under construction
 - rewards will be reinvested as pledge and infrastructure upgrades
 - Pooltool.io Link: https://pooltool.io/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
+- adapools.org: https://adapools.org/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
+- single pool operator
 
 ### Pool Performance & KPIs
 - Pool margin: 0%
