@@ -7,22 +7,26 @@ If you share the mantra "Not your keys - Not your coins" please search for ROSE 
 
 We are a group of crypto enthusiasts with a professional background in IT
 
-Search for @RoseStaking
+For News & Updates search for @RoseStaking on Twitter
 
 
 ## WebSite Content
-- Cloud hosted 24/7/365
+- Multi Cloud hosted 24/7/365
+- Pool Ticker: ROSE
+- Pool Name: Rose Pool Staking
+- Pool ID: fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 - Professional server security service
 - Professional admins
 - Service Monitoring / alerting 
 - uptime 99,9%
 - no pool margin, everything to the delegators
-- Werbung für ADA => Dezentralisieren
 - Just in Time Access Permission
 - Pledge stake pool operator rewards (diagram?)
+- 2 active relays + 1 bootable backup relay for server maintenance + 1 raspberry pi relay under construction
+- Pooltool.io Link: https://pooltool.io/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 
 ### Pool Performance & KPIs
- - Pool margin: 0%
+- Pool margin: 0%
 - Cost per Epoche: 340 ₳D₳
 - Pledge: 500 
 - Rank Epoch 279: 573
