@@ -22,7 +22,7 @@ For News & Updates search for @RoseStaking on Twitter
 - no pool margin, everything to the delegators
 - Just in Time Access Permission
 - 2 active relays + 1 bootable backup relay for server maintenance + 1 raspberry pi relay under construction
-- rewards will be added as pledge 
+- rewards will be reinvested as pledge and infrastructure upgrades
 - Pooltool.io Link: https://pooltool.io/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 
 ### Pool Performance & KPIs
