@@ -1,21 +1,15 @@
 {
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
         "location": "Berlin, Germany",
         "social": {
             "twitter_handle": "RoseStaking",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "discord_handle": "RoseStaking",
+            "github_handle": "ROSE-Pool-Operator"
         },
         "about": {
-            "me": "",
+            "me": "ROSE by White Rose Staking ADA Staking Pool Not your keys - Not your coins",
             "server": "Multi cloud environment with 1 backup relay and 1 raspberry pi under construction",
-            "company": ""
+            "company": "White Rose Staking"
         }
     }
 }
