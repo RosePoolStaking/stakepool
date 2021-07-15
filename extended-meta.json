@@ -1,0 +1,21 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Berlin, Germany",
+        "social": {
+            "twitter_handle": "RoseStaking",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "company": "..."
+        }
+    }
+}
