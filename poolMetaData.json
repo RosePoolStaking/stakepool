@@ -3,5 +3,5 @@
 "description": "Professionally Operated Pool",
 "ticker": "ROSE",
 "homepage": "https://github.com/RosePoolStaking/stakepool",
-"extended": "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json"  
+"extended": "https://raw.githubusercontent.com/RosePoolStaking/stakepool/main/extended-meta.json"  
 }
