@@ -21,7 +21,7 @@ For News & Updates search for @RoseStaking on Twitter
 - uptime 99,9%
 - no pool margin, everything to the delegators
 - Just in Time Access Permission
-- 2 active relays + 1 bootable backup relay for server maintenance + 1 raspberry pi relay under construction
+- 3 active relays + 1 bootable backup relay for server maintenance
 - rewards will be reinvested as pledge and infrastructure upgrades
 - Pooltool.io Link: https://pooltool.io/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 - adapools.org: https://adapools.org/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
