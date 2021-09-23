@@ -7,7 +7,7 @@ If you share the mantra "Not your keys - Not your coins" please search for ROSE 
 
 We are a group of crypto enthusiasts with a professional background in IT
 
-For News & Updates search for @RoseStaking on Twitter
+For News & Updates search for @RoseStaking on Twitter (https://twitter.com/rosestaking)
 
 
 ## WebSite Content
