@@ -10,7 +10,7 @@ We are a group of crypto enthusiasts with professional background in IT
 For News & Updates search for @RoseStaking on Twitter (https://twitter.com/rosestaking)
 
 
-## WebSite Content
+## About our pool
 - Multi Cloud hosted 24/7/365
 - Pool Ticker: ROSE
 - Pool Name: Rose Pool Staking
@@ -44,10 +44,3 @@ For News & Updates search for @RoseStaking on Twitter (https://twitter.com/roses
 - Pledge: 500
 - Rank: 1624
 
-### Sections:
-general 
-Stats (Pledged, delegated, Luck, Pool margin)
-advantages (decentralized, no fees, highly secured,...)
-Security
-FAQ
-Support mail
