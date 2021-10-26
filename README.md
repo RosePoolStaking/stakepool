@@ -25,19 +25,3 @@ For News & Updates search for @RoseStaking on Twitter (https://twitter.com/roses
 - adapools.org: https://adapools.org/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 - single pool operator
 
-### Pool Performance & KPIs
-- Ticker: ROSE
-- Pool margin: 0%
-- Cost per Epoche: 340 ₳D₳
-- Pledge: 500 
-- Description: Professionally Operated Pool
-- Total Stake: 6,2k
-- Last Reward Epoch: 0 :(
-- Tax Ratio: 0
-- Tax Fix: 340
-- Lifetime ROA: 0 :(
-- Monthly ROA: 0 :(
-- Blocks Lifetime: 0 :(
-- Blocks in epoch: 0 :(
-- Pledge: 500
-
