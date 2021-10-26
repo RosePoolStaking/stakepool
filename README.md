@@ -9,7 +9,7 @@ We are a group of crypto enthusiasts with professional background in IT
 For News & Updates search for @RoseStaking on Twitter (https://twitter.com/rosestaking)
 
 ## About our pool
-- Bare metal stakepool and relay +  one cloud-relay
+- Bare metal stakepool and relay +  one azure cloud-relay
 - Pool Ticker: ROSE
 - Pool Name: Rose Pool Staking
 - Pool ID: fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
