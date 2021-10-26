@@ -31,14 +31,13 @@ For News & Updates search for @RoseStaking on Twitter (https://twitter.com/roses
 - Cost per Epoche: 340 ₳D₳
 - Pledge: 500 
 - Description: Professionally Operated Pool
-- Total Stake: 1001
-- Last Reward Epoch: 0
+- Total Stake: 6,2k
+- Last Reward Epoch: 0 :(
 - Tax Ratio: 0
 - Tax Fix: 340
-- Lifetime ROA: 0
-- Monthly ROA: 0
-- Blocks Lifetime: 0
-- Blocks in epoch: 0
+- Lifetime ROA: 0 :(
+- Monthly ROA: 0 :(
+- Blocks Lifetime: 0 :(
+- Blocks in epoch: 0 :(
 - Pledge: 500
-- Rank: 1624
 
