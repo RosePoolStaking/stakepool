@@ -1,6 +1,5 @@
 # ROSE Pool by White Rose Staking
 
-In this project we are hosting a single staking pool for cardano network. 
 We believe in ₳D₳ and like to support the decentralization
 
 If you share the mantra "Not your keys - Not your coins" please search for ROSE and delegate to our staking pool.
