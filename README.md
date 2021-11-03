@@ -9,20 +9,20 @@ For News & Updates search for @RoseStaking on Twitter (https://twitter.com/roses
 
 ## About our pool
 
-Infos:
+##Infos:
 - Pool Ticker: ROSE
 - Pool Name: Rose Pool Staking
 - Pool ID: fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 - no pool margin, everything to the delegators
 - rewards will be reinvested as pledge and infrastructure upgrades
 
-Hardware:
+##Hardware:
 - 3 relays (2 public, 1 shadow)
 - uptime 99,9%
 
-Admins:
+##Admins:
 - Professional admins with 10y experience
-- 
-Links:
+
+##Links:
 - Pooltool.io Link: https://pooltool.io/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
 - adapools.org: https://adapools.org/pool/fffda60991eafa48674f7137a76e11ddc2464e94c73a4319629072b4
