@@ -17,7 +17,8 @@ For News & Updates search for @RoseStaking on Twitter (https://twitter.com/roses
 - rewards will be reinvested as pledge and infrastructure upgrades
 
 ### Hardware:
-- 3 relays (2 public, 1 shadow)
+- barematel block producer with usp
+- 2 relays (1 cloud, 1 baremetal)
 - uptime 99,9%
 
 ### Admins:
