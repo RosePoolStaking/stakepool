@@ -1,4 +1,4 @@
-# ROSE Pool by White Rose Staking
+# White Rose Staking Pool
 
 We believe in ₳D₳ and like to support the decentralization
 
@@ -18,8 +18,8 @@ For news & updates search for @RoseStaking on Twitter (https://twitter.com/roses
 
 ### Hardware:
 - barematel block producer with UPS
-- 2 relays (1 cloud, 1 baremetal)
-- uptime 99,9%
+- 2 relays (1 cloud, 1 baremetal with UPS)
+- uptime 99,9%, 24/7 monitoring
 
 ### Admins:
 - Professional admins with 10y experience
